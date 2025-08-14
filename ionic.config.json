@@ -1,0 +1,7 @@
+{
+  "name": "dogsi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
